@@ -1,4 +1,3 @@
-# Capstone-Project-Module-3
 # Prediksi Nasabah Potensial Pembuka Deposito
 
 Proyek ini merupakan bagian dari Capstone Project Module 3 dalam program pembelajaran Machine Learning. Tujuannya adalah membangun model klasifikasi untuk memprediksi apakah seorang nasabah akan membuka deposito berdasarkan data hasil kampanye pemasaran bank.
