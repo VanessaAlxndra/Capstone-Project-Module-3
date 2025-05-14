@@ -12,7 +12,7 @@ Dataset yang digunakan berisi informasi demografi nasabah dan hasil interaksi ka
 
 ### Contoh fitur:
 - `age`, `job`, `balance`, `housing`, `loan`
-- `contact`, `month`, `campaign`, `pdays`, `poutcome`, `deposit`.
+- `contact`, `month`, `campaign`, `pdays`, `poutcome`.
 
 ## 🔍 Pendekatan Analitik
 - Jenis masalah: Klasifikasi biner
